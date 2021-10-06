@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55a0640d-efb4-40af-92d8-1b8ea90b0cb1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1y3dlZGUjYNmyMa42OAJvwEGB1I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hb-03-one-to-many-fix" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\malickid\IdeaProjects" />
+      <recent name="C:\Users\malickid\IdeaProjects\Hibernate Tutorial\src" />
+      <recent name="C:\Users\malickid\IdeaProjects\Hibernate Tutorial\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.luv2code.hibernate.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.hibernate.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GetInstructorCoursesDemo">
+    <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCoursesDemo" />
+      <module name="Hibernate Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateInstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateInstructorDemo" />
+      <module name="Hibernate Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteCourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteCourseDemo" />
+      <module name="Hibernate Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteInstructoDetailDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteInstructoDetailDemo" />
+      <module name="Hibernate Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetInstructorCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.GetInstructorCoursesDemo" />
+      <module name="Hibernate Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.hibernate.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetInstructorCoursesDemo" />
+        <item itemvalue="Application.DeleteCourseDemo" />
+        <item itemvalue="Application.CreateCoursesDemo" />
+        <item itemvalue="Application.CreateInstructorDemo" />
+        <item itemvalue="Application.DeleteInstructoDetailDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a0640d-efb4-40af-92d8-1b8ea90b0cb1" name="Changes" comment="" />
+      <created>1631484359915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631484359915</updated>
+      <workItem from="1631484361395" duration="2767000" />
+      <workItem from="1631569388739" duration="4348000" />
+      <workItem from="1631642724447" duration="4938000" />
+      <workItem from="1631656480861" duration="1231000" />
+      <workItem from="1631657752262" duration="680000" />
+      <workItem from="1631742725061" duration="3178000" />
+      <workItem from="1632781528838" duration="2550000" />
+      <workItem from="1632951637459" duration="1895000" />
+      <workItem from="1632956350516" duration="2337000" />
+      <workItem from="1633556383339" duration="596000" />
+      <workItem from="1633558211911" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic Hibernate Inserts">
+      <created>1631572957741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631572957741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic Hibernate Retrieve Objects">
+      <created>1631573768238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631573768238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic Hibernate Update&amp;Delete">
+      <created>1631655163068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631655163068</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basic Hibernate One-to-one mapping">
+      <created>1631657796896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631657796896</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Basic Hibernate One-to-one mapping inserting">
+      <created>1631743966410</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631743966410</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Basic Hibernate One-to-one mapping deleting">
+      <created>1631744277322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631744277322</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Basic Hibernate One-to-one bidirectional refferencing">
+      <created>1631745305889</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631745305889</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Basic Hibernate One-to-one bidirectional removing">
+      <created>1632785655280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632785655281</updated>
+    </task>
+    <task id="LOCAL-00009" summary="comment fix">
+      <created>1632952034760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632952034760</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Course class created">
+      <created>1632956570842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632956570842</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Course Relationship defined">
+      <created>1632956779489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632956779489</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Hibernate Inserts" />
+    <MESSAGE value="Basic Hibernate Retrieve Objects" />
+    <MESSAGE value="Basic Hibernate Update&amp;Delete" />
+    <MESSAGE value="Basic Hibernate One-to-one mapping" />
+    <MESSAGE value="Basic Hibernate One-to-one mapping inserting" />
+    <MESSAGE value="Basic Hibernate One-to-one mapping deleting" />
+    <MESSAGE value="Basic Hibernate One-to-one bidirectional refferencing" />
+    <MESSAGE value="Basic Hibernate One-to-one bidirectional removing" />
+    <MESSAGE value="comment fix" />
+    <MESSAGE value="Course class created" />
+    <MESSAGE value="Course Relationship defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course Relationship defined" />
+  </component>
+</project>
